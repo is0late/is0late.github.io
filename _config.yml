@@ -124,7 +124,7 @@ menu:
   tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
-  RSS: /feed.xml
+  rss: /feed.xml
 
 
 # Enable/Disable menu icons.
@@ -143,6 +143,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  rss:rss
 
 
 
