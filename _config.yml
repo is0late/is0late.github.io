@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: is0late
 subtitle:
 description:
-author: John Doe
+author: is0late
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -117,13 +117,14 @@ index_with_subtitle: false
 
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
-  home: /
+  主页: /
   #categories: /categories/
   #about: /about/
-  archives: /archives/
-  tags: /tags/
+  归档: /archives/
+  标签: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
+  RSS: /feed.xml
 
 
 # Enable/Disable menu icons.
@@ -233,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: "//avatars2.githubusercontent.com/u/34314582?s=400&u=b5285e286a9678e57df13e4ba0406bd6faf75068&v=4"
 
 
 # Table Of Contents in the Sidebar
