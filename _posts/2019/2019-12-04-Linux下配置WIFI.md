@@ -1,10 +1,4 @@
-tags：
-- Linux
-- Wifi配置
-
-categories:
-- Linux
-  - 技术
+[tags]:linux;WIFI;
 
 ## 准备工作
 Debian系统
@@ -24,7 +18,7 @@ Debian系统
 ```bash
 sudo lspci -vvv
 ```
-![](media/2019-12-04-13-16-01.png)
+![](https://raw.githubusercontent.com/is0late/is0late.github.io/master/_posts/2019/media/2019-12-04-13-16-01.png)
 
 网卡驱动一般会默认安装，如果没有按照驱动名字去官网下载
 
@@ -64,7 +58,7 @@ apt-get install wpasupplicant
 ```bash
 iwconfig
 ```
-![](media/2019-12-04-13-16-02.png)
+![](https://raw.githubusercontent.com/is0late/is0late.github.io/master/_posts/2019/media/2019-12-04-13-16-02.png)
 
 ### 激活无线网卡
 
@@ -79,7 +73,7 @@ iwconfig wlan0 scanning
 ```
 
 各类wifi信息
-![](media/2019-12-04-13-16-03.png)
+![](https://raw.githubusercontent.com/is0late/is0late.github.io/master/_posts/2019/media/2019-12-04-13-16-03.png)
 
 
 
