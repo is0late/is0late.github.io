@@ -1,4 +1,5 @@
-[tags]:linux;WIFI;
+[tags]:Linux
+[categories]:Linux
 
 ## 准备工作
 Debian系统
