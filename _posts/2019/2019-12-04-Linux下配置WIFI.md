@@ -1,6 +1,3 @@
-[tags]:Linux
-[categories]:Linux
-
 ## 准备工作
 Debian系统
 内核：4.5+
@@ -11,6 +8,8 @@ Debian系统
 * 网卡驱动
 * wireless-tools
 * wpasupplicant
+
+<!--more-->
 
 ## 安装
 ### 驱动
