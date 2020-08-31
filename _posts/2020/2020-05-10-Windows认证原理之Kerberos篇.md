@@ -50,7 +50,7 @@
 
 **Session Key与Ticket Granting Ticket**
 
- #### 1. 客户端
+#### 1. 客户端
  1. 向Kerberos发送客户端信息信息和相应的请求服务，例如“用户Tom想要请求服务”（不需要发送密钥或者密码）
 
 #### 2. Kerberos
