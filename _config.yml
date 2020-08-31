@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: is0late
-subtitle:
+title: 孤岛
+subtitle: 抽烟、喝酒、拉屎
 description:
 author: is0late
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: "https://blog.is0late.cn"
+url: "https://blog.is0late.com"
 baseurl:
 permalink: pretty
 
