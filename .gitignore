@@ -1,0 +1,7 @@
+_site
+.DS_Store
+.sass-cache
+.c9
+Gemfile.lock
+.vscode/
+.idea/
